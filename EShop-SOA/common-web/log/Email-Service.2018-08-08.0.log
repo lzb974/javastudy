@@ -1,0 +1,108 @@
+2018-08-08 17:10:44.593 INFO  [main] c.s.common.web.WebApplication [StartupInfoLogger.java : 48] - Starting WebApplication on DESKTOP-R3NQDH8 with PID 36164 (D:\workspace\iworkspace\javastudy\EShop-SOA\common-web\target\classes started by dell in D:\workspace\iworkspace\javastudy\EShop-SOA\common-web)
+2018-08-08 17:10:44.599 INFO  [main] c.s.common.web.WebApplication [SpringApplication.java : 597] - The following profiles are active: dev
+2018-08-08 17:10:45.093 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:10:45.095 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:10:45.905 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:10:45.906 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:10:45.907 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:10:45.907 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:10:45.908 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:10:45.908 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:10:45.909 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:10:45.909 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:10:45.909 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:10:45.909 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:10:45.909 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:10:45.910 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:10:45.938 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:10:45.939 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:11:15.585 INFO  [main] c.s.common.web.WebApplication [StartupInfoLogger.java : 48] - Starting WebApplication on DESKTOP-R3NQDH8 with PID 30108 (D:\workspace\iworkspace\javastudy\EShop-SOA\common-web\target\classes started by dell in D:\workspace\iworkspace\javastudy\EShop-SOA\common-web)
+2018-08-08 17:11:15.591 INFO  [main] c.s.common.web.WebApplication [SpringApplication.java : 597] - The following profiles are active: dev
+2018-08-08 17:11:16.184 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:11:16.191 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:11:16.986 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:11:16.987 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:11:16.987 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:11:16.987 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:11:16.987 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:11:16.987 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:11:16.988 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:11:16.988 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:11:16.988 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:11:16.988 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:11:16.989 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:11:16.989 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:11:17.009 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:11:17.010 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:13:48.732 INFO  [main] c.s.common.web.WebApplication [StartupInfoLogger.java : 48] - Starting WebApplication on DESKTOP-R3NQDH8 with PID 36564 (D:\workspace\iworkspace\javastudy\EShop-SOA\common-web\target\classes started by dell in D:\workspace\iworkspace\javastudy\EShop-SOA\common-web)
+2018-08-08 17:13:48.736 INFO  [main] c.s.common.web.WebApplication [SpringApplication.java : 597] - The following profiles are active: dev
+2018-08-08 17:13:49.331 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:13:49.335 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:13:50.101 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:13:50.101 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:13:50.101 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:13:50.102 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:13:50.102 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:13:50.103 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:13:50.104 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:13:50.105 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:13:50.107 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:13:50.108 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:13:50.108 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:13:50.109 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:13:50.136 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:13:50.137 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:16:31.475 INFO  [main] c.s.common.web.WebApplication [StartupInfoLogger.java : 48] - Starting WebApplication on DESKTOP-R3NQDH8 with PID 34144 (D:\workspace\iworkspace\javastudy\EShop-SOA\common-web\target\classes started by dell in D:\workspace\iworkspace\javastudy\EShop-SOA\common-web)
+2018-08-08 17:16:31.480 INFO  [main] c.s.common.web.WebApplication [SpringApplication.java : 597] - The following profiles are active: dev
+2018-08-08 17:16:32.203 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:16:32.205 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:16:32.970 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:16:32.971 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:16:32.971 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:16:32.972 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:16:32.975 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:16:32.975 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:16:32.976 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:16:32.976 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:16:32.977 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:16:32.977 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:16:32.979 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:16:32.979 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:16:33.009 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:16:33.010 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:20:56.181 INFO  [main] c.s.common.web.WebApplication [StartupInfoLogger.java : 48] - Starting WebApplication on DESKTOP-R3NQDH8 with PID 34604 (D:\workspace\iworkspace\javastudy\EShop-SOA\common-web\target\classes started by dell in D:\workspace\iworkspace\javastudy\EShop-SOA\common-web)
+2018-08-08 17:20:56.185 INFO  [main] c.s.common.web.WebApplication [SpringApplication.java : 597] - The following profiles are active: dev
+2018-08-08 17:20:56.948 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:20:56.953 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:20:57.797 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:20:57.799 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:20:57.800 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:20:57.800 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:20:57.801 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:20:57.801 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:20:57.801 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:20:57.802 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:20:57.802 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:20:57.802 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:20:57.803 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:20:57.803 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:20:57.837 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:20:57.838 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:21:36.139 INFO  [main] c.s.common.web.WebApplication [StartupInfoLogger.java : 48] - Starting WebApplication on DESKTOP-R3NQDH8 with PID 30196 (D:\workspace\iworkspace\javastudy\EShop-SOA\common-web\target\classes started by dell in D:\workspace\iworkspace\javastudy\EShop-SOA\common-web)
+2018-08-08 17:21:36.143 INFO  [main] c.s.common.web.WebApplication [SpringApplication.java : 597] - The following profiles are active: dev
+2018-08-08 17:21:37.089 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:21:37.091 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:21:37.871 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:21:37.871 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:21:37.871 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:21:37.871 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:21:37.872 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:21:37.872 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:21:37.872 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:21:37.872 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:21:37.872 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:21:37.874 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:21:37.874 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:21:37.874 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null
+2018-08-08 17:21:37.897 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 15] - 条件：null
+2018-08-08 17:21:37.898 INFO  [main] c.s.e.common.condition.DBCondition [DBCondition.java : 16] - 条件：null

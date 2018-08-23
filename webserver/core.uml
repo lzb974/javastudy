@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.sinjinsong.webserver.core</OriginalElement>
+  <nodes>
+    <node x="604.4838579499597" y="210.0">com.sinjinsong.webserver.core.listener</node>
+    <node x="751.4838579499597" y="210.0">com.sinjinsong.webserver.core.session</node>
+    <node x="918.9124293785311" y="370.0">com.sinjinsong.webserver.core.constant</node>
+    <node x="293.9104116222761" y="210.0">com.sinjinsong.webserver.core.servlet</node>
+    <node x="0.0" y="785.0">com.sinjinsong.webserver.core.network</node>
+    <node x="0.0" y="620.0">com.sinjinsong.webserver.core.template</node>
+    <node x="604.4838579499597" y="370.0">com.sinjinsong.webserver.core.context</node>
+    <node x="332.8571428571429" y="90.0">com.sinjinsong.webserver.core.response</node>
+    <node x="74.03364608555256" y="210.0">com.sinjinsong.webserver.core.exception</node>
+    <node x="463.7011198547216" y="710.0">com.sinjinsong.webserver.core.resource</node>
+    <node x="1072.9124293785312" y="370.0">com.sinjinsong.webserver.core.BootStrap</node>
+    <node x="679.2348163841809" y="0.0">com.sinjinsong.webserver.core.cookie</node>
+    <node x="456.9104116222761" y="210.0">com.sinjinsong.webserver.core.filter</node>
+    <node x="153.99999999999994" y="0.0">com.sinjinsong.webserver.core.enumeration</node>
+    <node x="1090.4124293785312" y="210.0">com.sinjinsong.webserver.core.util</node>
+    <node x="645.817191283293" y="540.0">com.sinjinsong.webserver.core.request</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.sinjinsong.webserver.core.request" target="com.sinjinsong.webserver.core.exception">
+      <point x="-59.89285714285711" y="-15.0" />
+      <point x="650.4243341404359" y="520.0" />
+      <point x="157.49999999999994" y="520.0" />
+      <point x="157.49999999999994" y="350.0" />
+      <point x="162.15864608555256" y="350.0" />
+      <point x="17.625" y="15.0" />
+    </edge>
+    <edge source="com.sinjinsong.webserver.core.context" target="com.sinjinsong.webserver.core.exception">
+      <point x="-58.20833333333337" y="-15.0" />
+      <point x="609.7755246166263" y="350.0" />
+      <point x="197.40864608555256" y="350.0" />
+      <point x="52.875" y="15.0" />
+    </edge>
+    <edge source="com.sinjinsong.webserver.core.request" target="com.sinjinsong.webserver.core.context">
+      <point x="-4.60714285714289" y="-15.0" />
+      <point x="705.7100484261501" y="460.0" />
+      <point x="699.7338579499597" y="460.0" />
+      <point x="31.75" y="15.0" />
+    </edge>
+    <edge source="com.sinjinsong.webserver.core.response" target="com.sinjinsong.webserver.core.response">
+      <point x="-59.571428571428555" y="15.0" />
+      <point x="342.78571428571433" y="140.0" />
+      <point x="312.8571428571429" y="140.0" />
+      <point x="312.8571428571429" y="115.0" />
+      <point x="-69.5" y="10.0" />
+    </edge>
+    <edge source="com.sinjinsong.webserver.core.context" target="com.sinjinsong.webserver.core.context">
+      <point x="-31.75" y="15.0" />
+      <point x="636.2338579499597" y="430.0" />
+      <point x="574.4838579499597" y="430.0" />
+      <point x="574.4838579499597" y="385.0" />
+      <point x="-63.5" y="-0.0" />
+    </edge>
+    <edge source="com.sinjinsong.webserver.core.context" target="com.sinjinsong.webserver.core.servlet">
+      <point x="-47.625000000000114" y="-15.0" />
+      <point x="620.3588579499595" y="340.0" />
+      <point x="386.1604116222761" y="340.0" />
+      <point x="30.75" y="15.0" />
+    </edge>
+    <edge source="com.sinjinsong.webserver.core.filter" target="com.sinjinsong.webserver.core.response">
+      <point x="0.0" y="-15.0" />
+      <point x="512.4104116222761" y="190.0" />
+      <point x="442.07142857142856" y="190.0" />
+      <point x="39.714285714285666" y="15.0" />
+    </edge>
+    <edge source="com.sinjinsong.webserver.core.response" target="com.sinjinsong.webserver.core.enumeration">
+      <point x="-17.375" y="-15.0" />
+      <point x="384.9821428571429" y="60.0" />
+      <point x="300.71428571428567" y="60.0" />
+      <point x="67.71428571428572" y="15.0" />
+    </edge>
+    <edge source="com.sinjinsong.webserver.core.request" target="com.sinjinsong.webserver.core.constant">
+      <point x="59.89285714285711" y="-15.0" />
+      <point x="770.2100484261501" y="520.0" />
+      <point x="952.4124293785311" y="520.0" />
+      <point x="-33.5" y="15.0" />
+    </edge>
+    <edge source="com.sinjinsong.webserver.core.exception" target="com.sinjinsong.webserver.core.enumeration">
+      <point x="-35.25" y="-15.0" />
+      <point x="109.28364608555256" y="190.0" />
+      <point x="146.49999999999994" y="190.0" />
+      <point x="146.49999999999994" y="60.0" />
+      <point x="187.85714285714278" y="60.0" />
+      <point x="-45.14285714285717" y="15.0" />
+    </edge>
+    <edge source="com.sinjinsong.webserver.core.resource" target="com.sinjinsong.webserver.core.request">
+      <point x="11.333333333333371" y="-15.0" />
+      <point x="543.034453188055" y="670.0" />
+      <point x="742.567191283293" y="670.0" />
+      <point x="32.25" y="15.0" />
+    </edge>
+    <edge source="com.sinjinsong.webserver.core.resource" target="com.sinjinsong.webserver.core.exception">
+      <point x="-34.0" y="-15.0" />
+      <point x="497.7011198547216" y="680.0" />
+      <point x="146.49999999999994" y="680.0" />
+      <point x="146.49999999999994" y="350.0" />
+      <point x="126.90864608555256" y="350.0" />
+      <point x="-17.625" y="15.0" />
+    </edge>
+    <edge source="com.sinjinsong.webserver.core.request" target="com.sinjinsong.webserver.core.enumeration">
+      <point x="-41.464285714285666" y="-15.0" />
+      <point x="668.8529055690074" y="500.0" />
+      <point x="234.74793179983834" y="500.0" />
+      <point x="234.74793179983834" y="70.0" />
+      <point x="255.5714285714285" y="70.0" />
+      <point x="22.571428571428555" y="15.0" />
+    </edge>
+    <edge source="com.sinjinsong.webserver.core.context" target="com.sinjinsong.webserver.core.util">
+      <point x="58.20833333333337" y="-15.0" />
+      <point x="726.192191283293" y="350.0" />
+      <point x="1107.4124293785312" y="350.0" />
+      <point x="-34.0" y="15.0" />
+    </edge>
+    <edge source="com.sinjinsong.webserver.core.filter" target="com.sinjinsong.webserver.core.filter">
+      <point x="-37.0" y="15.0" />
+      <point x="475.4104116222761" y="260.0" />
+      <point x="436.9104116222761" y="260.0" />
+      <point x="436.9104116222761" y="225.0" />
+      <point x="-55.5" y="-0.0" />
+    </edge>
+    <edge source="com.sinjinsong.webserver.core.context" target="com.sinjinsong.webserver.core.filter">
+      <point x="-37.04166666666674" y="-15.0" />
+      <point x="630.9421912832929" y="330.0" />
+      <point x="549.4104116222761" y="330.0" />
+      <point x="37.0" y="15.0" />
+    </edge>
+    <edge source="com.sinjinsong.webserver.core.resource" target="com.sinjinsong.webserver.core.constant">
+      <point x="34.0" y="-15.0" />
+      <point x="565.7011198547216" y="680.0" />
+      <point x="1019.4124293785312" y="680.0" />
+      <point x="33.5" y="15.0" />
+    </edge>
+    <edge source="com.sinjinsong.webserver.core.context" target="com.sinjinsong.webserver.core.response">
+      <point x="-26.45833333333337" y="-15.0" />
+      <point x="641.5255246166263" y="320.0" />
+      <point x="578.4779055690072" y="320.0" />
+      <point x="578.4779055690072" y="180.0" />
+      <point x="461.92857142857144" y="180.0" />
+      <point x="59.571428571428555" y="15.0" />
+    </edge>
+    <edge source="com.sinjinsong.webserver.core.resource" target="com.sinjinsong.webserver.core.template">
+      <point x="-56.666666666666686" y="-15.0" />
+      <point x="475.0344531880549" y="690.0" />
+      <point x="68.0" y="690.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.sinjinsong.webserver.core.template" target="com.sinjinsong.webserver.core.enumeration">
+      <point x="-45.33333333333337" y="-15.0" />
+      <point x="22.66666666666663" y="595.0" />
+      <point x="44.058565375302635" y="595.0" />
+      <point x="44.058565375302635" y="50.0" />
+      <point x="165.28571428571422" y="50.0" />
+      <point x="-67.71428571428572" y="15.0" />
+    </edge>
+    <edge source="com.sinjinsong.webserver.core.servlet" target="com.sinjinsong.webserver.core.request">
+      <point x="-30.75" y="15.0" />
+      <point x="324.6604116222761" y="490.0" />
+      <point x="678.067191283293" y="490.0" />
+      <point x="-32.25" y="-15.0" />
+    </edge>
+    <edge source="com.sinjinsong.webserver.core.session" target="com.sinjinsong.webserver.core.context">
+      <point x="10.666666666666629" y="15.0" />
+      <point x="826.1505246166263" y="320.0" />
+      <point x="715.6088579499597" y="320.0" />
+      <point x="47.625" y="-15.0" />
+    </edge>
+    <edge source="com.sinjinsong.webserver.core.template" target="com.sinjinsong.webserver.core.exception">
+      <point x="0.0" y="-15.0" />
+      <point x="68.0" y="595.0" />
+      <point x="63.62106537530258" y="595.0" />
+      <point x="63.62106537530258" y="350.0" />
+      <point x="91.65864608555256" y="350.0" />
+      <point x="-52.875" y="15.0" />
+    </edge>
+    <edge source="com.sinjinsong.webserver.core.response" target="com.sinjinsong.webserver.core.cookie">
+      <point x="17.375" y="-15.0" />
+      <point x="419.7321428571429" y="50.0" />
+      <point x="689.5681497175143" y="50.0" />
+      <point x="-51.66666666666663" y="15.0" />
+    </edge>
+    <edge source="com.sinjinsong.webserver.core.BootStrap" target="com.sinjinsong.webserver.core.util">
+      <point x="0.0" y="-15.0" />
+      <point x="1126.4124293785312" y="350.0" />
+      <point x="1141.4124293785312" y="350.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.sinjinsong.webserver.core.template" target="com.sinjinsong.webserver.core.request">
+      <point x="45.33333333333334" y="-15.0" />
+      <point x="113.33333333333337" y="595.0" />
+      <point x="678.067191283293" y="595.0" />
+      <point x="-32.25" y="15.0" />
+    </edge>
+    <edge source="com.sinjinsong.webserver.core.context" target="com.sinjinsong.webserver.core.listener">
+      <point x="-5.291666666666629" y="-15.0" />
+      <point x="662.692191283293" y="300.0" />
+      <point x="636.2338579499597" y="300.0" />
+      <point x="-31.75" y="15.0" />
+    </edge>
+    <edge source="com.sinjinsong.webserver.core.resource" target="com.sinjinsong.webserver.core.response">
+      <point x="-11.333333333333371" y="-15.0" />
+      <point x="520.3677865213882" y="670.0" />
+      <point x="254.98184019370467" y="670.0" />
+      <point x="254.98184019370467" y="180.0" />
+      <point x="402.3571428571429" y="180.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.sinjinsong.webserver.core.filter" target="com.sinjinsong.webserver.core.request">
+      <point x="0.0" y="15.0" />
+      <point x="512.4104116222761" y="480.0" />
+      <point x="687.2814769975787" y="480.0" />
+      <point x="-23.035714285714334" y="-15.0" />
+    </edge>
+    <edge source="com.sinjinsong.webserver.core.context" target="com.sinjinsong.webserver.core.session">
+      <point x="26.45833333333337" y="-15.0" />
+      <point x="694.442191283293" y="300.0" />
+      <point x="783.4838579499597" y="300.0" />
+      <point x="-32.0" y="15.0" />
+    </edge>
+    <edge source="com.sinjinsong.webserver.core.request" target="com.sinjinsong.webserver.core.session">
+      <point x="13.821428571428555" y="-15.0" />
+      <point x="724.1386198547216" y="470.0" />
+      <point x="827.8491222760288" y="470.0" />
+      <point x="827.8491222760288" y="330.0" />
+      <point x="847.4838579499597" y="330.0" />
+      <point x="32.0" y="15.0" />
+    </edge>
+    <edge source="com.sinjinsong.webserver.core.resource" target="com.sinjinsong.webserver.core.util">
+      <point x="56.66666666666663" y="-15.0" />
+      <point x="588.3677865213882" y="690.0" />
+      <point x="1190.4124293785312" y="690.0" />
+      <point x="1190.4124293785312" y="350.0" />
+      <point x="1175.4124293785312" y="350.0" />
+      <point x="34.0" y="15.0" />
+    </edge>
+    <edge source="com.sinjinsong.webserver.core.context" target="com.sinjinsong.webserver.core.request">
+      <point x="52.91666666666663" y="15.0" />
+      <point x="720.9005246166263" y="460.0" />
+      <point x="714.9243341404359" y="460.0" />
+      <point x="4.60714285714289" y="-15.0" />
+    </edge>
+    <edge source="com.sinjinsong.webserver.core.request" target="com.sinjinsong.webserver.core.cookie">
+      <point x="50.678571428571445" y="-15.0" />
+      <point x="760.9957627118645" y="510.0" />
+      <point x="908.4124293785311" y="510.0" />
+      <point x="908.4124293785311" y="50.0" />
+      <point x="792.9014830508476" y="50.0" />
+      <point x="51.66666666666666" y="15.0" />
+    </edge>
+    <edge source="com.sinjinsong.webserver.core.context" target="com.sinjinsong.webserver.core.cookie">
+      <point x="-15.875" y="-15.0" />
+      <point x="652.1088579499597" y="310.0" />
+      <point x="593.9838579499597" y="310.0" />
+      <point x="593.9838579499597" y="70.0" />
+      <point x="730.9014830508476" y="70.0" />
+      <point x="-10.333333333333371" y="15.0" />
+    </edge>
+    <edge source="com.sinjinsong.webserver.core.servlet" target="com.sinjinsong.webserver.core.response">
+      <point x="0.0" y="-15.0" />
+      <point x="355.4104116222761" y="190.0" />
+      <point x="422.2142857142857" y="190.0" />
+      <point x="19.857142857142833" y="15.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="419.0" y="341.5" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
