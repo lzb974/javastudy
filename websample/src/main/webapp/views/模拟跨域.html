@@ -1,0 +1,29 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<link type="test/css" href="css/style.css" rel="stylesheet">
+<script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-3.4.1.min.js"></script> 
+<script type="text/javascript">
+	$(function(){
+	$("#cors").click(
+		function(){
+			$.ajax({
+				headers:{"token":"","Content-Type":"application/json;charset=UTF-8","Access-Control-Allow-Origin":"*"},
+				url:"http://127.0.0.1:9000/token",
+				success:function(data){
+					console.log("start")
+					console.log(data)
+					alert(data);
+				}
+			})
+		});
+	});
+</script>
+<body>
+	<input type="button" id="cors" value="core跨域测试"
+</body>
+</html>
