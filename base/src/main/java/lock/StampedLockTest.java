@@ -7,6 +7,8 @@ import java.util.concurrent.locks.StampedLock;
  * @Author lzb
  * @Date 2021/5/27 14:47
  * @Version 1.0
+ * 和ReadWritLock相比，在一个线程情况下，是读速度其4倍左右，写是1倍；
+ * 六个线程情况下，读性能是其几十倍，写性能也是近10倍左右:
  */
 public class StampedLockTest {
     private double x, y;
